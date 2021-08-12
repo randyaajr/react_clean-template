@@ -1,6 +1,16 @@
-# Getting Started with my clean version of Create React App
+# Clean React Template
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Copy and paste the following to clone this repo template in your terminal
+
+```
+git clone --single-branch -b react_clean-template https://github.com/randyaajr/react_clean-template.git
+```
+
+## Copy and paste the following to install dependencies
+
+```
+npm install
+```
 
 ## Available Scripts
 
